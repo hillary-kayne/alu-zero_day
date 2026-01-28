@@ -1,2 +1,2 @@
-Git project directory
+Git project directory Up to Date
 
